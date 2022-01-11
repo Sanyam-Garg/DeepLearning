@@ -1,5 +1,4 @@
 # Cat or Dog Convolutional Neural Network
-***
 ## What is this?
 This repository contains a jupyter notebook which includes the data preprocessing for the training and the test sets, followed by the creation and training of a convolutional neural network capable of distinguishing between the image of a cat or a dog.
 
